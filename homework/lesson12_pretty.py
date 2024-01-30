@@ -1,0 +1,4 @@
+import PrettyTable
+
+
+table = PrettyֻTable()
